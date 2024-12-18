@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "Unfuck This House",
           "status": "start"
         },
       ],
@@ -112,7 +112,7 @@ export default {
       ],
       "header": {
         "planet": "Stygia",
-        "year": "5014u",
+        "year": "5016u",
         "system": "Calliope",
         "gate": "Rào Cỏ",
         "ring": "Annamite Line",
