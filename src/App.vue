@@ -114,7 +114,7 @@ export default {
           "code": "f54d1734-573a-451c-be3e-e0249ca82d35//NDL-C-BLACK-ORRERY",
           "corpro": "IPS-N",
           "frame": "Sunfish Mk. III Multirole Clipper",
-          "mech": "Dragon's Tooth"
+          "mech": "HG-0451 Dragon's Tooth"
         },       
       ],
       "header": {
