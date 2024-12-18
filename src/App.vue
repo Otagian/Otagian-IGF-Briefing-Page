@@ -125,7 +125,7 @@ export default {
         "ring": "Annamite Line",
         "headerTitle": "HELL'S GATE",
         "headerSubtitle": "Militia Squadron",
-        "subheaderTitle": "Crisis Response",
+        "subheaderTitle": "Strategic Response",
         "subheaderSubtitle": "House Unfuckers",
       },
       "options":{
