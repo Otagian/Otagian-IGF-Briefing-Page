@@ -111,9 +111,9 @@ export default {
         {
           "callsign": "Siren",
           "alias": "ALKONOST SIREN/5962A",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
-          "corpro": "GMS",
-          "frame": "Clipper",
+          "code": "f54d1734-573a-451c-be3e-e0249ca82d35//NDL-C-BLACK-ORRERY",
+          "corpro": "IPS-N",
+          "frame": "Sunfish Mk. III Multirole Clipper",
           "mech": "Dragon's Tooth"
         },       
       ],
