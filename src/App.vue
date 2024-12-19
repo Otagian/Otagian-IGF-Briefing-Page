@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "Squire",
           "alias": "Alaric Konrad",
-          "code": "Konrad.Alaric:08a54d04-12ca-475d-abe3-9722e4706377//NDL-C-BLIND-KINGMAKER//",
+          "code": "08a54d04-12ca-475d-abe3-9722e4706377//NDL-C-BLIND-KINGMAKER//",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Demigryph"
@@ -111,7 +111,7 @@ export default {
         {
           "callsign": "El Duende del Fuego",
           "alias": "[REDACTED]",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "4f0c6f7f-f161-45a2-87fa-d74ca1c19a73//NDL-C-BLUE-VEIL//",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Lucha Libre"
@@ -119,7 +119,7 @@ export default {
         {
           "callsign": "Overwatch",
           "alias": "Jeff Wilson",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//",
           "corpro": "GMS",
           "frame": "Chomolungma",
           "mech": "Ennui"
@@ -127,7 +127,7 @@ export default {
         {
           "callsign": "Siren",
           "alias": "ALKONOST SIREN/5962A",
-          "code": "f54d1734-573a-451c-be3e-e0249ca82d35//NDL-C-BLACK-ORRERY",
+          "code": "f54d1734-573a-451c-be3e-e0249ca82d35//NDL-C-BLACK-ORRERY//",
           "corpro": "IPS-N",
           "frame": "Sunfish Mk. III Multirole Clipper",
           "mech": "HG-0451 Dragon's Tooth"
