@@ -103,11 +103,27 @@ export default {
         {
           "callsign": "Squire",
           "alias": "Alaric Konrad",
-          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "code": "Konrad.Alaric:08a54d04-12ca-475d-abe3-9722e4706377//NDL-C-BLIND-KINGMAKER//",
           "corpro": "GMS",
           "frame": "Sagarmatha",
           "mech": "Demigryph"
         },
+        {
+          "callsign": "El Duende del Fuego",
+          "alias": "[REDACTED]",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Lucha Libre"
+        },
+        {
+          "callsign": "Overwatch",
+          "alias": "Jeff Wilson",
+          "code": "462370be-bd0f-41c2-b667-cc75f3a59a96///NDL-C-DEEP-STATION//377308ad-ba23-410b-ae37-68a1fb5f8db4",
+          "corpro": "GMS",
+          "frame": "Chomolungma",
+          "mech": "Ennui"
+        },        
         {
           "callsign": "Siren",
           "alias": "ALKONOST SIREN/5962A",
