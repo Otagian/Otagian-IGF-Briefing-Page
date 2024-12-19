@@ -125,6 +125,13 @@ export default {
           "mech": "Ennui"
         },        
         {
+          "callsign": "Locksmith",
+          "alias": "Oddvar Galassi",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "Conflict of Interest"
+        }, 
+        {
           "callsign": "Siren",
           "alias": "ALKONOST SIREN/5962A",
           "code": "f54d1734-573a-451c-be3e-e0249ca82d35//NDL-C-BLACK-ORRERY//",
