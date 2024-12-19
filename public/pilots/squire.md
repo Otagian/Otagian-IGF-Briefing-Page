@@ -1,5 +1,1 @@
-BIO GOES HERE
-
-#
-
-TRIVIA GOES HERE
+Alaric Konrad is the next in a long line of lost souls. Descended from the first parties of men who spread through the stars, his homeworld was lost when Earth fell to ecological disaster. Forced to make due with limited resources, their world slowly evolved backwards, developing legends and myths surrounding the first of their kind. Worshipping the great warriors of old in their metal armored knight-suits and great prophets of science who took them across the stars. Thousands of years passed before contact was reestablished, and it was in those early contact years that Alaric was made aware of the truth, that humanity was not alone in the stars, and that the universe was far more advanced than anything he could have ever imagined. Following ambition and curiousity, Alaric took the first opportunity he could to make it offword and never looked back. While he has not fully adapted to all modernity has to offer, he has found himself at home with a group of misfits, best exercising his skills as a combatant and his experience with old-world tech. His mannerisms may be strange and medieval, but tactics are always valuable, and sometimes you need someone who can improvise a quick fix to a massive problem.
