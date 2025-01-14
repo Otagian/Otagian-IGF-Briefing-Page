@@ -130,6 +130,13 @@ export default {
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "Conflict of Interest"
+        },
+        {
+          "callsign": "Doc",
+          "alias": "House",
+          "corpro": "GMS",
+          "frame": "Everest",
+          "mech": "LIVE IN FEAR OF WHAT HE CREATED"
         }, 
         {
           "callsign": "Siren",
