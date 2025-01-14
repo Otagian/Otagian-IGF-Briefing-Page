@@ -93,6 +93,11 @@ export default {
         {
           "slug": "001",
           "name": "Unfuck This House",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Working Holiday",
           "status": "start"
         },
       ],
@@ -130,7 +135,7 @@ export default {
         },
         {
           "callsign": "Doc",
-          "alias": "House",
+          "alias": "GOD IS DEAD AND I AM SQUATTING IN HIS HOUSE",
           "corpro": "GMS",
           "frame": "Everest",
           "mech": "LIVE IN FEAR OF WHAT HE CREATED"
