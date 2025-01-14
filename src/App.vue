@@ -65,9 +65,6 @@
       </filter>
     </defs>
   </svg>
-  <audio autoplay>
-    <source src="/startup.ogg" type="audio/ogg" />
-  </audio>
   <Footer/>
 </template>
 
@@ -156,7 +153,7 @@ export default {
         "headerTitle": "HELL'S GATE",
         "headerSubtitle": "Militia Squadron",
         "subheaderTitle": "Strategic Response",
-        "subheaderSubtitle": "House Unfuckers",
+        "subheaderSubtitle": "Vent Crabs",
       },
       "options":{
         "eventsMarkdownPerMission": true
